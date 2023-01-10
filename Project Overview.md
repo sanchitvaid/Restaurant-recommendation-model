@@ -7,12 +7,12 @@ cities with maximum / minimum number of restaurants. Explored how ratings are di
 appealing.
 
 ## Findings
-1. There are 43 Indian cities in the dataset out of which New Delhi has the highest number of restaurants. India cities like Panchkula, Mohali have the least presence
-2. New Delhi has the highest number of restaurants out of all the cities : 5473
-3. % of restaurants providing online delivery : 25.66
-4. Ratio of restaurants that allow table booking vs that do not : 0.14
+- There are 43 Indian cities in the dataset out of which New Delhi has the highest number of restaurants. India cities like Panchkula, Mohali have the least presence
+- New Delhi has the highest number of restaurants out of all the cities : 5473
+- % of restaurants providing online delivery : 25.66
+- Ratio of restaurants that allow table booking vs that do not : 0.14
 
-5. Number of votes do not give a clear picture of how it may affect the rating of any particular restaurant as we do not see a significant rise in number of 
+- Number of votes do not give a clear picture of how it may affect the rating of any particular restaurant as we do not see a significant rise in number of 
 votes as the ratings increase 
-6. Table booking, online delivery, no. of cuisines served and price range are the important factors that affect the rating of a restaurant.
+- Table booking, online delivery, no. of cuisines served and price range are the important factors that affect the rating of a restaurant.
 Whereas factors such as number of votes and average cost for two do not give a clear picture of how they affect the ratings
